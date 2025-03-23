@@ -1,12 +1,25 @@
 eft: WET-2
 metadata:
-  description: >
-    Weak effective theory with dynamical up and down quark and electron,
-    valid below the stange quark mass scale.
+  description: 'Weak effective theory with dynamical up and down quark and electron, valid below the stange quark mass scale.
+
+    '
 sectors:
-  udenu:
   nunununu:
+  numunuenunu:
+  nutaunuenunu:
+  numunutaununu:
+  numunuenumunutau:
+  nutaunuenutaunumu:
+  nuenutaunuenumu:
+  numunuenumunue:
+  nutaunuenutaunue:
+  nutaunumunutaunumu:
   dF=0:
   ffnunu:
-  uddnu:
+  ffnumunue:
+  ffnutaunue:
+  ffnumunutau:
+  uddnue:
+  uddnumu:
+  uddnutau:
   uude:

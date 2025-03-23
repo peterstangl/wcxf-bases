@@ -2,7 +2,7 @@
   "basis": "Bern",
   "eft": "WET-4",
   "sectors": {
-    "udenu": {
+    "udenue": {
       "1udee": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu d)(\\bar{e} \\gamma_\\mu \\nu_{e})"
       },
@@ -17,7 +17,9 @@
       },
       "7pudee": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}d)(\\bar{e} \\sigma_{\\mu\\nu} \\nu_{e})"
-      },
+      }
+    },
+    "udenumu": {
       "1udemu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu d)(\\bar{e} \\gamma_\\mu \\nu_{\\mu})"
       },
@@ -32,7 +34,9 @@
       },
       "7pudemu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}d)(\\bar{e} \\sigma_{\\mu\\nu} \\nu_{\\mu})"
-      },
+      }
+    },
+    "udenutau": {
       "1udetau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu d)(\\bar{e} \\gamma_\\mu \\nu_{\\tau})"
       },
@@ -49,7 +53,7 @@
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}d)(\\bar{e} \\sigma_{\\mu\\nu} \\nu_{\\tau})"
       }
     },
-    "udmunu": {
+    "udmunue": {
       "1udmue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu d)(\\bar{\\mu} \\gamma_\\mu \\nu_{e})"
       },
@@ -64,7 +68,9 @@
       },
       "7pudmue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}d)(\\bar{\\mu} \\sigma_{\\mu\\nu} \\nu_{e})"
-      },
+      }
+    },
+    "udmunumu": {
       "1udmumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu d)(\\bar{\\mu} \\gamma_\\mu \\nu_{\\mu})"
       },
@@ -79,7 +85,9 @@
       },
       "7pudmumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}d)(\\bar{\\mu} \\sigma_{\\mu\\nu} \\nu_{\\mu})"
-      },
+      }
+    },
+    "udmunutau": {
       "1udmutau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu d)(\\bar{\\mu} \\gamma_\\mu \\nu_{\\tau})"
       },
@@ -96,7 +104,7 @@
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}d)(\\bar{\\mu} \\sigma_{\\mu\\nu} \\nu_{\\tau})"
       }
     },
-    "udtaunu": {
+    "udtaunue": {
       "1udtaue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu d)(\\bar{\\tau} \\gamma_\\mu \\nu_{e})"
       },
@@ -111,7 +119,9 @@
       },
       "7pudtaue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}d)(\\bar{\\tau} \\sigma_{\\mu\\nu} \\nu_{e})"
-      },
+      }
+    },
+    "udtaunumu": {
       "1udtaumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu d)(\\bar{\\tau} \\gamma_\\mu \\nu_{\\mu})"
       },
@@ -126,7 +136,9 @@
       },
       "7pudtaumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}d)(\\bar{\\tau} \\sigma_{\\mu\\nu} \\nu_{\\mu})"
-      },
+      }
+    },
+    "udtaunutau": {
       "1udtautau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu d)(\\bar{\\tau} \\gamma_\\mu \\nu_{\\tau})"
       },
@@ -143,7 +155,7 @@
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}d)(\\bar{\\tau} \\sigma_{\\mu\\nu} \\nu_{\\tau})"
       }
     },
-    "cdenu": {
+    "cdenue": {
       "1cdee": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu d)(\\bar{e} \\gamma_\\mu \\nu_{e})"
       },
@@ -158,7 +170,9 @@
       },
       "7pcdee": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_L \\sigma^{\\mu\\nu}d)(\\bar{e} \\sigma_{\\mu\\nu} \\nu_{e})"
-      },
+      }
+    },
+    "cdenumu": {
       "1cdemu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu d)(\\bar{e} \\gamma_\\mu \\nu_{\\mu})"
       },
@@ -173,7 +187,9 @@
       },
       "7pcdemu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_L \\sigma^{\\mu\\nu}d)(\\bar{e} \\sigma_{\\mu\\nu} \\nu_{\\mu})"
-      },
+      }
+    },
+    "cdenutau": {
       "1cdetau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu d)(\\bar{e} \\gamma_\\mu \\nu_{\\tau})"
       },
@@ -190,7 +206,7 @@
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_L \\sigma^{\\mu\\nu}d)(\\bar{e} \\sigma_{\\mu\\nu} \\nu_{\\tau})"
       }
     },
-    "cdmunu": {
+    "cdmunue": {
       "1cdmue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu d)(\\bar{\\mu} \\gamma_\\mu \\nu_{e})"
       },
@@ -205,7 +221,9 @@
       },
       "7pcdmue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_L \\sigma^{\\mu\\nu}d)(\\bar{\\mu} \\sigma_{\\mu\\nu} \\nu_{e})"
-      },
+      }
+    },
+    "cdmunumu": {
       "1cdmumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu d)(\\bar{\\mu} \\gamma_\\mu \\nu_{\\mu})"
       },
@@ -220,7 +238,9 @@
       },
       "7pcdmumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_L \\sigma^{\\mu\\nu}d)(\\bar{\\mu} \\sigma_{\\mu\\nu} \\nu_{\\mu})"
-      },
+      }
+    },
+    "cdmunutau": {
       "1cdmutau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu d)(\\bar{\\mu} \\gamma_\\mu \\nu_{\\tau})"
       },
@@ -237,7 +257,7 @@
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_L \\sigma^{\\mu\\nu}d)(\\bar{\\mu} \\sigma_{\\mu\\nu} \\nu_{\\tau})"
       }
     },
-    "cdtaunu": {
+    "cdtaunue": {
       "1cdtaue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu d)(\\bar{\\tau} \\gamma_\\mu \\nu_{e})"
       },
@@ -252,7 +272,9 @@
       },
       "7pcdtaue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_L \\sigma^{\\mu\\nu}d)(\\bar{\\tau} \\sigma_{\\mu\\nu} \\nu_{e})"
-      },
+      }
+    },
+    "cdtaunumu": {
       "1cdtaumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu d)(\\bar{\\tau} \\gamma_\\mu \\nu_{\\mu})"
       },
@@ -267,7 +289,9 @@
       },
       "7pcdtaumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_L \\sigma^{\\mu\\nu}d)(\\bar{\\tau} \\sigma_{\\mu\\nu} \\nu_{\\mu})"
-      },
+      }
+    },
+    "cdtaunutau": {
       "1cdtautau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu d)(\\bar{\\tau} \\gamma_\\mu \\nu_{\\tau})"
       },
@@ -310,7 +334,7 @@
         "tex": "\\frac{4G_F}{\\sqrt{2}} ({\\bar d}_{\\alpha} P_{R} s_{\\beta})({\\bar d}_{\\beta} P_{R} s_{\\alpha})"
       }
     },
-    "usenu": {
+    "usenue": {
       "1usee": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu s)(\\bar{e} \\gamma_\\mu \\nu_{e})"
       },
@@ -325,7 +349,9 @@
       },
       "7pusee": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}s)(\\bar{e} \\sigma_{\\mu\\nu} \\nu_{e})"
-      },
+      }
+    },
+    "usenumu": {
       "1usemu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu s)(\\bar{e} \\gamma_\\mu \\nu_{\\mu})"
       },
@@ -340,7 +366,9 @@
       },
       "7pusemu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}s)(\\bar{e} \\sigma_{\\mu\\nu} \\nu_{\\mu})"
-      },
+      }
+    },
+    "usenutau": {
       "1usetau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu s)(\\bar{e} \\gamma_\\mu \\nu_{\\tau})"
       },
@@ -357,7 +385,7 @@
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}s)(\\bar{e} \\sigma_{\\mu\\nu} \\nu_{\\tau})"
       }
     },
-    "usmunu": {
+    "usmunue": {
       "1usmue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu s)(\\bar{\\mu} \\gamma_\\mu \\nu_{e})"
       },
@@ -372,7 +400,9 @@
       },
       "7pusmue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}s)(\\bar{\\mu} \\sigma_{\\mu\\nu} \\nu_{e})"
-      },
+      }
+    },
+    "usmunumu": {
       "1usmumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu s)(\\bar{\\mu} \\gamma_\\mu \\nu_{\\mu})"
       },
@@ -387,7 +417,9 @@
       },
       "7pusmumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}s)(\\bar{\\mu} \\sigma_{\\mu\\nu} \\nu_{\\mu})"
-      },
+      }
+    },
+    "usmunutau": {
       "1usmutau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu s)(\\bar{\\mu} \\gamma_\\mu \\nu_{\\tau})"
       },
@@ -404,7 +436,7 @@
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}s)(\\bar{\\mu} \\sigma_{\\mu\\nu} \\nu_{\\tau})"
       }
     },
-    "ustaunu": {
+    "ustaunue": {
       "1ustaue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu s)(\\bar{\\tau} \\gamma_\\mu \\nu_{e})"
       },
@@ -419,7 +451,9 @@
       },
       "7pustaue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}s)(\\bar{\\tau} \\sigma_{\\mu\\nu} \\nu_{e})"
-      },
+      }
+    },
+    "ustaunumu": {
       "1ustaumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu s)(\\bar{\\tau} \\gamma_\\mu \\nu_{\\mu})"
       },
@@ -434,7 +468,9 @@
       },
       "7pustaumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}s)(\\bar{\\tau} \\sigma_{\\mu\\nu} \\nu_{\\mu})"
-      },
+      }
+    },
+    "ustaunutau": {
       "1ustautau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_R \\gamma^\\mu s)(\\bar{\\tau} \\gamma_\\mu \\nu_{\\tau})"
       },
@@ -451,7 +487,7 @@
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{u} P_L \\sigma^{\\mu\\nu}s)(\\bar{\\tau} \\sigma_{\\mu\\nu} \\nu_{\\tau})"
       }
     },
-    "csenu": {
+    "csenue": {
       "1csee": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu s)(\\bar{e} \\gamma_\\mu \\nu_{e})"
       },
@@ -466,7 +502,9 @@
       },
       "7pcsee": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_L \\sigma^{\\mu\\nu}s)(\\bar{e} \\sigma_{\\mu\\nu} \\nu_{e})"
-      },
+      }
+    },
+    "csenumu": {
       "1csemu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu s)(\\bar{e} \\gamma_\\mu \\nu_{\\mu})"
       },
@@ -481,7 +519,9 @@
       },
       "7pcsemu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_L \\sigma^{\\mu\\nu}s)(\\bar{e} \\sigma_{\\mu\\nu} \\nu_{\\mu})"
-      },
+      }
+    },
+    "csenutau": {
       "1csetau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu s)(\\bar{e} \\gamma_\\mu \\nu_{\\tau})"
       },
@@ -498,7 +538,7 @@
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_L \\sigma^{\\mu\\nu}s)(\\bar{e} \\sigma_{\\mu\\nu} \\nu_{\\tau})"
       }
     },
-    "csmunu": {
+    "csmunue": {
       "1csmue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu s)(\\bar{\\mu} \\gamma_\\mu \\nu_{e})"
       },
@@ -513,7 +553,9 @@
       },
       "7pcsmue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_L \\sigma^{\\mu\\nu}s)(\\bar{\\mu} \\sigma_{\\mu\\nu} \\nu_{e})"
-      },
+      }
+    },
+    "csmunumu": {
       "1csmumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu s)(\\bar{\\mu} \\gamma_\\mu \\nu_{\\mu})"
       },
@@ -528,7 +570,9 @@
       },
       "7pcsmumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_L \\sigma^{\\mu\\nu}s)(\\bar{\\mu} \\sigma_{\\mu\\nu} \\nu_{\\mu})"
-      },
+      }
+    },
+    "csmunutau": {
       "1csmutau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu s)(\\bar{\\mu} \\gamma_\\mu \\nu_{\\tau})"
       },
@@ -545,7 +589,7 @@
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_L \\sigma^{\\mu\\nu}s)(\\bar{\\mu} \\sigma_{\\mu\\nu} \\nu_{\\tau})"
       }
     },
-    "cstaunu": {
+    "cstaunue": {
       "1cstaue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu s)(\\bar{\\tau} \\gamma_\\mu \\nu_{e})"
       },
@@ -560,7 +604,9 @@
       },
       "7pcstaue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_L \\sigma^{\\mu\\nu}s)(\\bar{\\tau} \\sigma_{\\mu\\nu} \\nu_{e})"
-      },
+      }
+    },
+    "cstaunumu": {
       "1cstaumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu s)(\\bar{\\tau} \\gamma_\\mu \\nu_{\\mu})"
       },
@@ -575,7 +621,9 @@
       },
       "7pcstaumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_L \\sigma^{\\mu\\nu}s)(\\bar{\\tau} \\sigma_{\\mu\\nu} \\nu_{\\mu})"
-      },
+      }
+    },
+    "cstaunutau": {
       "1cstautau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{c} P_R \\gamma^\\mu s)(\\bar{\\tau} \\gamma_\\mu \\nu_{\\tau})"
       },
@@ -1210,7 +1258,9 @@
       },
       "nu1pdstautau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{d} P_L \\gamma_\\mu s)(\\bar{\\nu}_\\tau \\gamma^\\mu \\nu_{\\tau})"
-      },
+      }
+    },
+    "sdnumunue": {
       "nu1dsemu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{d}P_R \\gamma_\\mu s)(\\bar{\\nu}_e \\gamma^\\mu \\nu_{\\mu})"
       },
@@ -1222,7 +1272,9 @@
       },
       "nu1pdsmue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{d} P_L \\gamma_\\mu s)(\\bar{\\nu}_\\mu \\gamma^\\mu \\nu_{e})"
-      },
+      }
+    },
+    "sdnutaunue": {
       "nu1dsetau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{d}P_R \\gamma_\\mu s)(\\bar{\\nu}_e \\gamma^\\mu \\nu_{\\tau})"
       },
@@ -1234,7 +1286,9 @@
       },
       "nu1pdstaue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{d} P_L \\gamma_\\mu s)(\\bar{\\nu}_\\tau \\gamma^\\mu \\nu_{e})"
-      },
+      }
+    },
+    "sdnumunutau": {
       "nu1dstaumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar{d}P_R \\gamma_\\mu s)(\\bar{\\nu}_\\tau \\gamma^\\mu \\nu_{\\mu})"
       },

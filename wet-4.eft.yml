@@ -1,27 +1,13 @@
 eft: WET-4
 metadata:
-  description: >
-    Weak effective theory with four dynamical quark flavours valid between the
-    charm and bottom quark mass scales.
+  description: 'Weak effective theory with four dynamical quark flavours valid between the charm and bottom quark mass scales.
+
+    '
 sectors:
   sdsd:
   cucu:
   sduc:
   sdcu:
-  usenu:
-  csenu:
-  udenu:
-  cdenu:
-  usmunu:
-  csmunu:
-  udmunu:
-  cdmunu:
-  ustaunu:
-  cstaunu:
-  udtaunu:
-  cdtaunu:
-  sdnunu:
-  cununu:
   sd:
   cu:
   sdemu:
@@ -46,17 +32,103 @@ sectors:
   etauemu:
   tauetaumu:
   nunununu:
-  nunumue:
-  nunumutau:
-  nunutaue:
+  numunuenunu:
+  nutaunuenunu:
+  numunutaununu:
+  numunuenumunutau:
+  nutaunuenutaunumu:
+  nuenutaunuenumu:
+  numunuenumunue:
+  nutaunuenutaunue:
+  nutaunumunutaunumu:
+  muenunu:
+  muenunuenue:
+  muenutaunue:
+  muenumunutau:
+  muenuenumu:
+  muenuenutau:
+  muenutaunumu:
+  mutaununu:
+  mutaunumunue:
+  mutaunutaunue:
+  mutaunumunutau:
+  mutaunuenumu:
+  mutaunuenutau:
+  mutaunutaunumu:
+  tauenunu:
+  tauenuenumu:
+  tauenuenutau:
+  tauenutaunumu:
+  tauenumunue:
+  tauenutaunue:
+  tauenumunutau:
   dF=0:
+  usenue:
+  usenumu:
+  usenutau:
+  usmunue:
+  usmunumu:
+  usmunutau:
+  ustaunue:
+  ustaunumu:
+  ustaunutau:
+  csenue:
+  csenumu:
+  csenutau:
+  csmunue:
+  csmunumu:
+  csmunutau:
+  cstaunue:
+  cstaunumu:
+  cstaunutau:
+  udenue:
+  udenumu:
+  udenutau:
+  udmunue:
+  udmunumu:
+  udmunutau:
+  udtaunue:
+  udtaunumu:
+  udtaunutau:
+  cdenue:
+  cdenumu:
+  cdenutau:
+  cdmunue:
+  cdmunumu:
+  cdmunutau:
+  cdtaunue:
+  cdtaunumu:
+  cdtaunutau:
+  sdnunu:
+  sdnumunue:
+  sdnutaunue:
+  sdnumunutau:
+  cununu:
+  cunumunue:
+  cunutaunue:
+  cunumunutau:
   ffnunu:
-  uddnu:
-  udsnu:
-  ussnu:
-  cddnu:
-  cdsnu:
-  cssnu:
+  ffnumunue:
+  ffnutaunue:
+  ffnumunutau:
+  uddnue:
+  uddnumu:
+  uddnutau:
+  udsnue:
+  udsnumu:
+  udsnutau:
+  ussnue:
+  ussnumu:
+  ussnutau:
+  cddnue:
+  cddnumu:
+  cddnutau:
+  cdsnue:
+  cdsnumu:
+  cdsnutau:
+  cssnue:
+  cssnumu:
+  cssnutau:
   uude:
   uudmu:
   uudtau:

@@ -259,7 +259,7 @@ sectors:
     b->smumu::Im{cT5}:
       real: true
       tex: \frac{4G_F}{\sqrt{2}} V_{ub} \frac{e^2}{16\pi^2} (\bar s \sigma_{\mu\nu} b)(\bar \mu \sigma_{\mu\nu} \gamma_5 \mu)
-  cbenu:
+  cbenue:
     cbenue::cVL:
       tex: -\frac{4G_F}{\sqrt{2}} V_{cb} (\bar c_L \gamma^\mu b_L)(\bar e_L \gamma_\mu \nu_{e L})
     cbenue::cVR:
@@ -270,7 +270,7 @@ sectors:
       tex: -\frac{4G_F}{\sqrt{2}} V_{cb} (\bar c_R b_L)(\bar e_R \nu_{e L})
     cbenue::cT:
       tex: -\frac{4G_F}{\sqrt{2}} V_{cb} (\bar c_R \sigma^{\mu\nu} b_L)(\bar e_R \sigma_{\mu\nu}\nu_{e L})
-  cbmunu:
+  cbmunumu:
     cbmunumu::cVL:
       tex: -\frac{4G_F}{\sqrt{2}} V_{cb} (\bar c_L \gamma^\mu b_L)(\bar \mu_L \gamma_\mu \nu_{\mu L})
     cbmunumu::cVR:
@@ -281,7 +281,7 @@ sectors:
       tex: -\frac{4G_F}{\sqrt{2}} V_{cb} (\bar c_R b_L)(\bar \mu_R \nu_{\mu L})
     cbmunumu::cT:
       tex: -\frac{4G_F}{\sqrt{2}} V_{cb} (\bar c_R \sigma^{\mu\nu} b_L)(\bar \mu_R \sigma_{\mu\nu}\nu_{\mu L})
-  cbtaunu:
+  cbtaunutau:
     cbtaunutau::cVL:
       tex: -\frac{4G_F}{\sqrt{2}} V_{cb} (\bar c_L \gamma^\tau b_L)(\bar \tau_L \gamma_\tau \nu_{\tau L})
     cbtaunutau::cVR:
@@ -292,7 +292,7 @@ sectors:
       tex: -\frac{4G_F}{\sqrt{2}} V_{cb} (\bar c_R b_L)(\bar \tau_R \nu_{\tau L})
     cbtaunutau::cT:
       tex: -\frac{4G_F}{\sqrt{2}} V_{cb} (\bar c_R \sigma^{\mu\nu} b_L)(\bar \tau_R \sigma_{\mu\nu}\nu_{\tau L})
-  ubenu:
+  ubenue:
     ubenue::cVL:
       tex: -\frac{4G_F}{\sqrt{2}} V_{ub} (\bar u_L \gamma^\mu b_L)(\bar e_L \gamma_\mu \nu_{e L})
     ubenue::cVR:
@@ -303,7 +303,7 @@ sectors:
       tex: -\frac{4G_F}{\sqrt{2}} V_{ub} (\bar u_R b_L)(\bar e_R \nu_{e L})
     ubenue::cT:
       tex: -\frac{4G_F}{\sqrt{2}} V_{ub} (\bar u_R \sigma^{\mu\nu} b_L)(\bar e_R \sigma_{\mu\nu}\nu_{e L})
-  ubmunu:
+  ubmunumu:
     ubmunumu::cVL:
       tex: -\frac{4G_F}{\sqrt{2}} V_{ub} (\bar u_L \gamma^\mu b_L)(\bar \mu_L \gamma_\mu \nu_{\mu L})
     ubmunumu::cVR:
@@ -314,7 +314,7 @@ sectors:
       tex: -\frac{4G_F}{\sqrt{2}} V_{ub} (\bar u_R b_L)(\bar \mu_R \nu_{\mu L})
     ubmunumu::cT:
       tex: -\frac{4G_F}{\sqrt{2}} V_{ub} (\bar u_R \sigma^{\mu\nu} b_L)(\bar \mu_R \sigma_{\mu\nu}\nu_{\mu L})
-  ubtaunu:
+  ubtaunutau:
     ubtaunutau::cVL:
       tex: -\frac{4G_F}{\sqrt{2}} V_{ub} (\bar u_L \gamma^\tau b_L)(\bar \tau_L \gamma_\tau \nu_{\tau L})
     ubtaunutau::cVR:

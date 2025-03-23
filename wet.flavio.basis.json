@@ -771,24 +771,6 @@
       "CL_bsnutaunutau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu b_L)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
       },
-      "CL_bsnuenumu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu b_L)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
-      },
-      "CL_bsnumunue": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu b_L)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
-      },
-      "CL_bsnumunutau": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu b_L)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
-      },
-      "CL_bsnutaunumu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu b_L)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
-      },
-      "CL_bsnuenutau": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu b_L)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
-      },
-      "CL_bsnutaunue": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu b_L)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
-      },
       "CR_bsnuenue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_R \\gamma^\\mu b_R)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
       },
@@ -797,18 +779,42 @@
       },
       "CR_bsnutaunutau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_R \\gamma^\\mu b_R)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
+      }
+    },
+    "sbnumunue": {
+      "CL_bsnuenumu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu b_L)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
+      },
+      "CL_bsnumunue": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu b_L)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
       },
       "CR_bsnuenumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_R \\gamma^\\mu b_R)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
       },
       "CR_bsnumunue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_R \\gamma^\\mu b_R)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
+      }
+    },
+    "sbnumunutau": {
+      "CL_bsnumunutau": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu b_L)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
+      },
+      "CL_bsnutaunumu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu b_L)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
       },
       "CR_bsnumunutau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_R \\gamma^\\mu b_R)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
       },
       "CR_bsnutaunumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_R \\gamma^\\mu b_R)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
+      }
+    },
+    "sbnutaunue": {
+      "CL_bsnuenutau": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu b_L)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
+      },
+      "CL_bsnutaunue": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu b_L)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
       },
       "CR_bsnuenutau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_R \\gamma^\\mu b_R)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
@@ -1153,24 +1159,6 @@
       "CL_sdnutaunutau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu d_L)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
       },
-      "CL_sdnuenumu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu d_L)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
-      },
-      "CL_sdnumunue": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu d_L)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
-      },
-      "CL_sdnumunutau": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu d_L)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
-      },
-      "CL_sdnutaunumu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu d_L)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
-      },
-      "CL_sdnuenutau": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu d_L)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
-      },
-      "CL_sdnutaunue": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu d_L)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
-      },
       "CR_sdnuenue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_R \\gamma^\\mu d_R)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
       },
@@ -1179,18 +1167,42 @@
       },
       "CR_sdnutaunutau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_R \\gamma^\\mu d_R)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
+      }
+    },
+    "sdnumunue": {
+      "CL_sdnuenumu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu d_L)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
+      },
+      "CL_sdnumunue": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu d_L)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
       },
       "CR_sdnuenumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_R \\gamma^\\mu d_R)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
       },
       "CR_sdnumunue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_R \\gamma^\\mu d_R)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
+      }
+    },
+    "sdnumunutau": {
+      "CL_sdnumunutau": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu d_L)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
+      },
+      "CL_sdnutaunumu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu d_L)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
       },
       "CR_sdnumunutau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_R \\gamma^\\mu d_R)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
       },
       "CR_sdnutaunumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_R \\gamma^\\mu d_R)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
+      }
+    },
+    "sdnutaunue": {
+      "CL_sdnuenutau": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu d_L)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
+      },
+      "CL_sdnutaunue": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_L \\gamma^\\mu d_L)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
       },
       "CR_sdnuenutau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{td} V_{ts}^* \\frac{e^2}{16\\pi^2}(\\bar s_R \\gamma^\\mu d_R)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
@@ -1535,24 +1547,6 @@
       "CL_bdnutaunutau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_L \\gamma^\\mu b_L)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
       },
-      "CL_bdnuenumu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_L \\gamma^\\mu b_L)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
-      },
-      "CL_bdnumunue": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_L \\gamma^\\mu b_L)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
-      },
-      "CL_bdnumunutau": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_L \\gamma^\\mu b_L)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
-      },
-      "CL_bdnutaunumu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_L \\gamma^\\mu b_L)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
-      },
-      "CL_bdnuenutau": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_L \\gamma^\\mu b_L)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
-      },
-      "CL_bdnutaunue": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_L \\gamma^\\mu b_L)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
-      },
       "CR_bdnuenue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_R \\gamma^\\mu b_R)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
       },
@@ -1561,18 +1555,42 @@
       },
       "CR_bdnutaunutau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_R \\gamma^\\mu b_R)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
+      }
+    },
+    "dbnumunue": {
+      "CL_bdnuenumu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_L \\gamma^\\mu b_L)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
+      },
+      "CL_bdnumunue": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_L \\gamma^\\mu b_L)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
       },
       "CR_bdnuenumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_R \\gamma^\\mu b_R)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
       },
       "CR_bdnumunue": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_R \\gamma^\\mu b_R)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
+      }
+    },
+    "dbnumunutau": {
+      "CL_bdnumunutau": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_L \\gamma^\\mu b_L)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
+      },
+      "CL_bdnutaunumu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_L \\gamma^\\mu b_L)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
       },
       "CR_bdnumunutau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_R \\gamma^\\mu b_R)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_\\mu)"
       },
       "CR_bdnutaunumu": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_R \\gamma^\\mu b_R)(\\bar \\nu_\\mu \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
+      }
+    },
+    "dbnutaunue": {
+      "CL_bdnuenutau": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_L \\gamma^\\mu b_L)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
+      },
+      "CL_bdnutaunue": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_L \\gamma^\\mu b_L)(\\bar \\nu_e \\gamma_\\mu(1-\\gamma_5) \\nu_\\tau)"
       },
       "CR_bdnuenutau": {
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{tb} V_{td}^* \\frac{e^2}{16\\pi^2}(\\bar d_R \\gamma^\\mu b_R)(\\bar \\nu_\\tau \\gamma_\\mu(1-\\gamma_5) \\nu_e)"
@@ -2049,7 +2067,7 @@
         "tex": "\\frac{4G_F}{\\sqrt{2}} V_{ts} V_{td}^* \\frac{e^2}{16\\pi^2}m_s(\\bar d_R s_L)(\\bar \\mu \\gamma_5 \\tau)"
       }
     },
-    "cbenu": {
+    "cbenue": {
       "CVL_bcenue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_L \\gamma^\\mu b_L)(\\bar e_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2064,7 +2082,9 @@
       },
       "CT_bcenue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_R \\sigma^{\\mu\\nu} b_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "cbenumu": {
       "CVL_bcenumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_L \\gamma^\\mu b_L)(\\bar e_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2079,7 +2099,9 @@
       },
       "CT_bcenumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_R \\sigma^{\\mu\\nu} b_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "cbenutau": {
       "CVL_bcenutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_L \\gamma^\\mu b_L)(\\bar e_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2096,7 +2118,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_R \\sigma^{\\mu\\nu} b_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "ubenu": {
+    "ubenue": {
       "CVL_buenue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_L \\gamma^\\mu b_L)(\\bar e_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2111,7 +2133,9 @@
       },
       "CT_buenue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_R \\sigma^{\\mu\\nu} b_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "ubenumu": {
       "CVL_buenumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_L \\gamma^\\mu b_L)(\\bar e_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2126,7 +2150,9 @@
       },
       "CT_buenumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_R \\sigma^{\\mu\\nu} b_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "ubenutau": {
       "CVL_buenutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_L \\gamma^\\mu b_L)(\\bar e_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2143,7 +2169,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_R \\sigma^{\\mu\\nu} b_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "usenu": {
+    "usenue": {
       "CVL_suenue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_L \\gamma^\\mu s_L)(\\bar e_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2158,7 +2184,9 @@
       },
       "CT_suenue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_R \\sigma^{\\mu\\nu} s_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "usenumu": {
       "CVL_suenumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_L \\gamma^\\mu s_L)(\\bar e_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2173,7 +2201,9 @@
       },
       "CT_suenumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_R \\sigma^{\\mu\\nu} s_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "usenutau": {
       "CVL_suenutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_L \\gamma^\\mu s_L)(\\bar e_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2190,7 +2220,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_R \\sigma^{\\mu\\nu} s_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "csenu": {
+    "csenue": {
       "CVL_scenue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_L \\gamma^\\mu s_L)(\\bar e_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2205,7 +2235,9 @@
       },
       "CT_scenue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_R \\sigma^{\\mu\\nu} s_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "csenumu": {
       "CVL_scenumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_L \\gamma^\\mu s_L)(\\bar e_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2220,7 +2252,9 @@
       },
       "CT_scenumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_R \\sigma^{\\mu\\nu} s_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "csenutau": {
       "CVL_scenutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_L \\gamma^\\mu s_L)(\\bar e_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2237,7 +2271,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_R \\sigma^{\\mu\\nu} s_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "cdenu": {
+    "cdenue": {
       "CVL_dcenue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_L \\gamma^\\mu d_L)(\\bar e_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2252,7 +2286,9 @@
       },
       "CT_dcenue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_R \\sigma^{\\mu\\nu} d_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "cdenumu": {
       "CVL_dcenumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_L \\gamma^\\mu d_L)(\\bar e_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2267,7 +2303,9 @@
       },
       "CT_dcenumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_R \\sigma^{\\mu\\nu} d_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "cdenutau": {
       "CVL_dcenutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_L \\gamma^\\mu d_L)(\\bar e_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2284,7 +2322,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_R \\sigma^{\\mu\\nu} d_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "cbmunu": {
+    "cbmunue": {
       "CVL_bcmunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_L \\gamma^\\mu b_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2299,7 +2337,9 @@
       },
       "CT_bcmunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_R \\sigma^{\\mu\\nu} b_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "cbmunumu": {
       "CVL_bcmunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_L \\gamma^\\mu b_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2314,7 +2354,9 @@
       },
       "CT_bcmunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_R \\sigma^{\\mu\\nu} b_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "cbmunutau": {
       "CVL_bcmunutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_L \\gamma^\\mu b_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2331,7 +2373,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_R \\sigma^{\\mu\\nu} b_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "ubmunu": {
+    "ubmunue": {
       "CVL_bumunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_L \\gamma^\\mu b_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2346,7 +2388,9 @@
       },
       "CT_bumunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_R \\sigma^{\\mu\\nu} b_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "ubmunumu": {
       "CVL_bumunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_L \\gamma^\\mu b_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2361,7 +2405,9 @@
       },
       "CT_bumunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_R \\sigma^{\\mu\\nu} b_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "ubmunutau": {
       "CVL_bumunutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_L \\gamma^\\mu b_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2378,7 +2424,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_R \\sigma^{\\mu\\nu} b_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "usmunu": {
+    "usmunue": {
       "CVL_sumunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_L \\gamma^\\mu s_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2393,7 +2439,9 @@
       },
       "CT_sumunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_R \\sigma^{\\mu\\nu} s_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "usmunumu": {
       "CVL_sumunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_L \\gamma^\\mu s_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2408,7 +2456,9 @@
       },
       "CT_sumunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_R \\sigma^{\\mu\\nu} s_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "usmunutau": {
       "CVL_sumunutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_L \\gamma^\\mu s_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2425,7 +2475,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_R \\sigma^{\\mu\\nu} s_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "csmunu": {
+    "csmunue": {
       "CVL_scmunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_L \\gamma^\\mu s_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2440,7 +2490,9 @@
       },
       "CT_scmunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_R \\sigma^{\\mu\\nu} s_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "csmunumu": {
       "CVL_scmunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_L \\gamma^\\mu s_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2455,7 +2507,9 @@
       },
       "CT_scmunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_R \\sigma^{\\mu\\nu} s_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "csmunutau": {
       "CVL_scmunutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_L \\gamma^\\mu s_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2472,7 +2526,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_R \\sigma^{\\mu\\nu} s_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "cdmunu": {
+    "cdmunue": {
       "CVL_dcmunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_L \\gamma^\\mu d_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2487,7 +2541,9 @@
       },
       "CT_dcmunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_R \\sigma^{\\mu\\nu} d_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "cdmunumu": {
       "CVL_dcmunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_L \\gamma^\\mu d_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2502,7 +2558,9 @@
       },
       "CT_dcmunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_R \\sigma^{\\mu\\nu} d_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "cdmunutau": {
       "CVL_dcmunutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_L \\gamma^\\mu d_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2519,7 +2577,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_R \\sigma^{\\mu\\nu} d_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "cbtaunu": {
+    "cbtaunue": {
       "CVL_bctaunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_L \\gamma^\\mu b_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2534,7 +2592,9 @@
       },
       "CT_bctaunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_R \\sigma^{\\mu\\nu} b_L)(\\bar \\tau_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "cbtaunumu": {
       "CVL_bctaunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_L \\gamma^\\mu b_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2549,7 +2609,9 @@
       },
       "CT_bctaunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_R \\sigma^{\\mu\\nu} b_L)(\\bar \\tau_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "cbtaunutau": {
       "CVL_bctaunutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_L \\gamma^\\mu b_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2566,7 +2628,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cb} (\\bar c_R \\sigma^{\\mu\\nu} b_L)(\\bar \\tau_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "ubtaunu": {
+    "ubtaunue": {
       "CVL_butaunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_L \\gamma^\\mu b_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2581,7 +2643,9 @@
       },
       "CT_butaunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_R \\sigma^{\\mu\\nu} b_L)(\\bar \\tau_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "ubtaunumu": {
       "CVL_butaunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_L \\gamma^\\mu b_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2596,7 +2660,9 @@
       },
       "CT_butaunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_R \\sigma^{\\mu\\nu} b_L)(\\bar \\tau_R \\sigma_{\\mu\\nu} \\nu_{\\mu L})"
-      },
+      }
+    },
+    "ubtaunutau": {
       "CVL_butaunutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_L \\gamma^\\mu b_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2613,7 +2679,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ub} (\\bar u_R \\sigma^{\\mu\\nu} b_L)(\\bar \\tau_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "ustaunu": {
+    "ustaunue": {
       "CVL_sutaunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_L \\gamma^\\mu s_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2628,7 +2694,9 @@
       },
       "CT_sutaunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_R \\sigma^{\\mu\\nu} s_L)(\\bar \\tau_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "ustaunumu": {
       "CVL_sutaunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_L \\gamma^\\mu s_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2643,7 +2711,9 @@
       },
       "CT_sutaunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_R \\sigma^{\\mu\\nu} s_L)(\\bar \\tau_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "ustaunutau": {
       "CVL_sutaunutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_L \\gamma^\\mu s_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2660,7 +2730,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{us} (\\bar u_R \\sigma^{\\mu\\nu} s_L)(\\bar \\tau_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "cstaunu": {
+    "cstaunue": {
       "CVL_sctaunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_L \\gamma^\\mu s_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2675,7 +2745,9 @@
       },
       "CT_sctaunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_R \\sigma^{\\mu\\nu} s_L)(\\bar \\tau_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "cstaunumu": {
       "CVL_sctaunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_L \\gamma^\\mu s_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2690,7 +2762,9 @@
       },
       "CT_sctaunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_R \\sigma^{\\mu\\nu} s_L)(\\bar \\tau_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "cstaunutau": {
       "CVL_sctaunutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_L \\gamma^\\mu s_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2707,7 +2781,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cs} (\\bar c_R \\sigma^{\\mu\\nu} s_L)(\\bar \\tau_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "cdtaunu": {
+    "cdtaunue": {
       "CVL_dctaunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_L \\gamma^\\mu d_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2722,7 +2796,9 @@
       },
       "CT_dctaunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_R \\sigma^{\\mu\\nu} d_L)(\\bar \\tau_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "cdtaunumu": {
       "CVL_dctaunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_L \\gamma^\\mu d_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2737,7 +2813,9 @@
       },
       "CT_dctaunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_R \\sigma^{\\mu\\nu} d_L)(\\bar \\tau_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "cdtaunutau": {
       "CVL_dctaunutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_L \\gamma^\\mu d_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2754,7 +2832,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{cd} (\\bar c_R \\sigma^{\\mu\\nu} d_L)(\\bar \\tau_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "udenu": {
+    "udenue": {
       "CVL_duenue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_L \\gamma^\\mu d_L)(\\bar e_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2769,7 +2847,9 @@
       },
       "CT_duenue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_R \\sigma^{\\mu\\nu} d_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "udenumu": {
       "CVL_duenumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_L \\gamma^\\mu d_L)(\\bar e_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2784,7 +2864,9 @@
       },
       "CT_duenumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_R \\sigma^{\\mu\\nu} d_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "udenutau": {
       "CVL_duenutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_L \\gamma^\\mu d_L)(\\bar e_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2801,7 +2883,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_R \\sigma^{\\mu\\nu} d_L)(\\bar e_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "udmunu": {
+    "udmunue": {
       "CVL_dumunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_L \\gamma^\\mu d_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2816,7 +2898,9 @@
       },
       "CT_dumunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_R \\sigma^{\\mu\\nu} d_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "udmunumu": {
       "CVL_dumunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_L \\gamma^\\mu d_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2831,7 +2915,9 @@
       },
       "CT_dumunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_R \\sigma^{\\mu\\nu} d_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "udmunutau": {
       "CVL_dumunutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_L \\gamma^\\mu d_L)(\\bar \\mu_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -2848,7 +2934,7 @@
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_R \\sigma^{\\mu\\nu} d_L)(\\bar \\mu_R \\sigma_{\\mu\\nu}\\nu_{\\tau L})"
       }
     },
-    "udtaunu": {
+    "udtaunue": {
       "CVL_dutaunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_L \\gamma^\\mu d_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{e L})"
       },
@@ -2863,7 +2949,9 @@
       },
       "CT_dutaunue": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_R \\sigma^{\\mu\\nu} d_L)(\\bar \\tau_R \\sigma_{\\mu\\nu}\\nu_{e L})"
-      },
+      }
+    },
+    "udtaunumu": {
       "CVL_dutaunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_L \\gamma^\\mu d_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -2878,7 +2966,9 @@
       },
       "CT_dutaunumu": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_R \\sigma^{\\mu\\nu} d_L)(\\bar \\tau_R \\sigma_{\\mu\\nu}\\nu_{\\mu L})"
-      },
+      }
+    },
+    "udtaunutau": {
       "CVL_dutaunutau": {
         "tex": "-\\frac{4G_F}{\\sqrt{2}} V_{ud} (\\bar u_L \\gamma^\\mu d_L)(\\bar \\tau_L \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -4721,30 +4811,12 @@
         "tex": "(\\bar \\tau_L \\sigma^{\\mu \\nu} e_R) (\\bar b_L \\sigma_{\\mu \\nu} b_R)"
       }
     },
-    "nunumue": {
+    "muenunu": {
       "CVLL_nuenuemue": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar e_L \\gamma_\\mu \\mu_L)"
       },
-      "CVLL_numunueemu": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\mu_L \\gamma_\\mu e_L)"
-      },
-      "CVLL_numunuemue": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_L \\gamma_\\mu \\mu_L)"
-      },
       "CVLL_numunumumue": {
         "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_L \\gamma_\\mu \\mu_L)"
-      },
-      "CVLL_nutaunueemu": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_L \\gamma_\\mu e_L)"
-      },
-      "CVLL_nutaunuemue": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_L \\gamma_\\mu \\mu_L)"
-      },
-      "CVLL_nutaunumuemu": {
-        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_L \\gamma_\\mu e_L)"
-      },
-      "CVLL_nutaunumumue": {
-        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_L \\gamma_\\mu \\mu_L)"
       },
       "CVLL_nutaunutaumue": {
         "tex": "(\\bar \\nu_{\\tau L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_L \\gamma_\\mu \\mu_L)"
@@ -4752,55 +4824,67 @@
       "CVLR_nuenuemue": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar e_R \\gamma_\\mu \\mu_R)"
       },
-      "CVLR_numunueemu": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\mu_R \\gamma_\\mu e_R)"
-      },
-      "CVLR_numunuemue": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_R \\gamma_\\mu \\mu_R)"
-      },
       "CVLR_numunumumue": {
         "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_R \\gamma_\\mu \\mu_R)"
-      },
-      "CVLR_nutaunueemu": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_R \\gamma_\\mu e_R)"
-      },
-      "CVLR_nutaunuemue": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_R \\gamma_\\mu \\mu_R)"
-      },
-      "CVLR_nutaunumuemu": {
-        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_R \\gamma_\\mu e_R)"
-      },
-      "CVLR_nutaunumumue": {
-        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_R \\gamma_\\mu \\mu_R)"
       },
       "CVLR_nutaunutaumue": {
         "tex": "(\\bar \\nu_{\\tau L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_R \\gamma_\\mu \\mu_R)"
       }
     },
-    "nunumutau": {
+    "muenuenumu": {
+      "CVLL_numunueemu": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\mu_L \\gamma_\\mu e_L)"
+      },
+      "CVLR_numunueemu": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\mu_R \\gamma_\\mu e_R)"
+      }
+    },
+    "muenunuenue": {
+      "CVLL_numunuemue": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_L \\gamma_\\mu \\mu_L)"
+      },
+      "CVLR_numunuemue": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_R \\gamma_\\mu \\mu_R)"
+      }
+    },
+    "muenuenutau": {
+      "CVLL_nutaunueemu": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_L \\gamma_\\mu e_L)"
+      },
+      "CVLR_nutaunueemu": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_R \\gamma_\\mu e_R)"
+      }
+    },
+    "muenutaunue": {
+      "CVLL_nutaunuemue": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_L \\gamma_\\mu \\mu_L)"
+      },
+      "CVLR_nutaunuemue": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_R \\gamma_\\mu \\mu_R)"
+      }
+    },
+    "muenumunutau": {
+      "CVLL_nutaunumuemu": {
+        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_L \\gamma_\\mu e_L)"
+      },
+      "CVLR_nutaunumuemu": {
+        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_R \\gamma_\\mu e_R)"
+      }
+    },
+    "muenutaunumu": {
+      "CVLL_nutaunumumue": {
+        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_L \\gamma_\\mu \\mu_L)"
+      },
+      "CVLR_nutaunumumue": {
+        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_R \\gamma_\\mu \\mu_R)"
+      }
+    },
+    "mutaununu": {
       "CVLL_nuenuetaumu": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar \\mu_L \\gamma_\\mu \\tau_L)"
       },
-      "CVLL_numunuemutau": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\tau_L \\gamma_\\mu \\mu_L)"
-      },
-      "CVLL_numunuetaumu": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\mu_L \\gamma_\\mu \\tau_L)"
-      },
       "CVLL_numunumutaumu": {
         "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\mu_L \\gamma_\\mu \\tau_L)"
-      },
-      "CVLL_nutaunuemutau": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_L \\gamma_\\mu \\mu_L)"
-      },
-      "CVLL_nutaunuetaumu": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_L \\gamma_\\mu \\tau_L)"
-      },
-      "CVLL_nutaunumumutau": {
-        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_L \\gamma_\\mu \\mu_L)"
-      },
-      "CVLL_nutaunumutaumu": {
-        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_L \\gamma_\\mu \\tau_L)"
       },
       "CVLL_nutaunutautaumu": {
         "tex": "(\\bar \\nu_{\\tau L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_L \\gamma_\\mu \\tau_L)"
@@ -4808,55 +4892,67 @@
       "CVLR_nuenuetaumu": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar \\mu_R \\gamma_\\mu \\tau_R)"
       },
-      "CVLR_numunuemutau": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\tau_R \\gamma_\\mu \\mu_R)"
-      },
-      "CVLR_numunuetaumu": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\mu_R \\gamma_\\mu \\tau_R)"
-      },
       "CVLR_numunumutaumu": {
         "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\mu_R \\gamma_\\mu \\tau_R)"
-      },
-      "CVLR_nutaunuemutau": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_R \\gamma_\\mu \\mu_R)"
-      },
-      "CVLR_nutaunuetaumu": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_R \\gamma_\\mu \\tau_R)"
-      },
-      "CVLR_nutaunumumutau": {
-        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_R \\gamma_\\mu \\mu_R)"
-      },
-      "CVLR_nutaunumutaumu": {
-        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_R \\gamma_\\mu \\tau_R)"
       },
       "CVLR_nutaunutautaumu": {
         "tex": "(\\bar \\nu_{\\tau L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_R \\gamma_\\mu \\tau_R)"
       }
     },
-    "nunutaue": {
+    "mutaunumunue": {
+      "CVLL_numunuemutau": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\tau_L \\gamma_\\mu \\mu_L)"
+      },
+      "CVLR_numunuemutau": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\tau_R \\gamma_\\mu \\mu_R)"
+      }
+    },
+    "mutaunuenumu": {
+      "CVLL_numunuetaumu": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\mu_L \\gamma_\\mu \\tau_L)"
+      },
+      "CVLR_numunuetaumu": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\mu_R \\gamma_\\mu \\tau_R)"
+      }
+    },
+    "mutaunutaunue": {
+      "CVLL_nutaunuemutau": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_L \\gamma_\\mu \\mu_L)"
+      },
+      "CVLR_nutaunuemutau": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_R \\gamma_\\mu \\mu_R)"
+      }
+    },
+    "mutaunuenutau": {
+      "CVLL_nutaunuetaumu": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_L \\gamma_\\mu \\tau_L)"
+      },
+      "CVLR_nutaunuetaumu": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_R \\gamma_\\mu \\tau_R)"
+      }
+    },
+    "mutaunutaunumu": {
+      "CVLL_nutaunumumutau": {
+        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_L \\gamma_\\mu \\mu_L)"
+      },
+      "CVLR_nutaunumumutau": {
+        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_R \\gamma_\\mu \\mu_R)"
+      }
+    },
+    "mutaunumunutau": {
+      "CVLL_nutaunumutaumu": {
+        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_L \\gamma_\\mu \\tau_L)"
+      },
+      "CVLR_nutaunumutaumu": {
+        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_R \\gamma_\\mu \\tau_R)"
+      }
+    },
+    "tauenunu": {
       "CVLL_nuenuetaue": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar e_L \\gamma_\\mu \\tau_L)"
       },
-      "CVLL_numunueetau": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\tau_L \\gamma_\\mu e_L)"
-      },
-      "CVLL_numunuetaue": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_L \\gamma_\\mu \\tau_L)"
-      },
       "CVLL_numunumutaue": {
         "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_L \\gamma_\\mu \\tau_L)"
-      },
-      "CVLL_nutaunueetau": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_L \\gamma_\\mu e_L)"
-      },
-      "CVLL_nutaunuetaue": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_L \\gamma_\\mu \\tau_L)"
-      },
-      "CVLL_nutaunumuetau": {
-        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_L \\gamma_\\mu e_L)"
-      },
-      "CVLL_nutaunumutaue": {
-        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_L \\gamma_\\mu \\tau_L)"
       },
       "CVLL_nutaunutautaue": {
         "tex": "(\\bar \\nu_{\\tau L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_L \\gamma_\\mu \\tau_L)"
@@ -4864,29 +4960,59 @@
       "CVLR_nuenuetaue": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar e_R \\gamma_\\mu \\tau_R)"
       },
-      "CVLR_numunueetau": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\tau_R \\gamma_\\mu e_R)"
-      },
-      "CVLR_numunuetaue": {
-        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_R \\gamma_\\mu \\tau_R)"
-      },
       "CVLR_numunumutaue": {
         "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_R \\gamma_\\mu \\tau_R)"
       },
+      "CVLR_nutaunutautaue": {
+        "tex": "(\\bar \\nu_{\\tau L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_R \\gamma_\\mu \\tau_R)"
+      }
+    },
+    "tauenuenumu": {
+      "CVLL_numunueetau": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\tau_L \\gamma_\\mu e_L)"
+      },
+      "CVLR_numunueetau": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\tau_R \\gamma_\\mu e_R)"
+      }
+    },
+    "tauenumunue": {
+      "CVLL_numunuetaue": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_L \\gamma_\\mu \\tau_L)"
+      },
+      "CVLR_numunuetaue": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_R \\gamma_\\mu \\tau_R)"
+      }
+    },
+    "tauenuenutau": {
+      "CVLL_nutaunueetau": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_L \\gamma_\\mu e_L)"
+      },
       "CVLR_nutaunueetau": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_R \\gamma_\\mu e_R)"
+      }
+    },
+    "tauenutaunue": {
+      "CVLL_nutaunuetaue": {
+        "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_L \\gamma_\\mu \\tau_L)"
       },
       "CVLR_nutaunuetaue": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_R \\gamma_\\mu \\tau_R)"
+      }
+    },
+    "tauenumunutau": {
+      "CVLL_nutaunumuetau": {
+        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_L \\gamma_\\mu e_L)"
       },
       "CVLR_nutaunumuetau": {
         "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_R \\gamma_\\mu e_R)"
+      }
+    },
+    "tauenutaunumu": {
+      "CVLL_nutaunumutaue": {
+        "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_L \\gamma_\\mu \\tau_L)"
       },
       "CVLR_nutaunumutaue": {
         "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_R \\gamma_\\mu \\tau_R)"
-      },
-      "CVLR_nutaunutautaue": {
-        "tex": "(\\bar \\nu_{\\tau L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_R \\gamma_\\mu \\tau_R)"
       }
     },
     "ffnunu": {
@@ -4922,54 +5048,6 @@
         "real": true,
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL}) (\\bar u_L \\gamma_\\mu u_L)"
       },
-      "CVLL_nuenumubb": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar b_L \\gamma_\\mu b_L)"
-      },
-      "CVLL_nuenumucc": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L}) (\\bar c_L \\gamma_\\mu c_L)"
-      },
-      "CVLL_nuenumudd": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar d_L \\gamma_\\mu d_L)"
-      },
-      "CVLL_nuenumuee": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_L \\gamma_\\mu e_L)"
-      },
-      "CVLL_nuenumumumu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\mu_L \\gamma_\\mu \\mu_L)"
-      },
-      "CVLL_nuenumuss": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar s_L \\gamma_\\mu s_L)"
-      },
-      "CVLL_nuenumutautau": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\tau_L \\gamma_\\mu \\tau_L)"
-      },
-      "CVLL_nuenumuuu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L}) (\\bar u_L \\gamma_\\mu u_L)"
-      },
-      "CVLL_nuenutaubb": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar b_L \\gamma_\\mu b_L)"
-      },
-      "CVLL_nuenutaucc": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L}) (\\bar c_L \\gamma_\\mu c_L)"
-      },
-      "CVLL_nuenutaudd": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar d_L \\gamma_\\mu d_L)"
-      },
-      "CVLL_nuenutauee": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_L \\gamma_\\mu e_L)"
-      },
-      "CVLL_nuenutaumumu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_L \\gamma_\\mu \\mu_L)"
-      },
-      "CVLL_nuenutauss": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar s_L \\gamma_\\mu s_L)"
-      },
-      "CVLL_nuenutautautau": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_L \\gamma_\\mu \\tau_L)"
-      },
-      "CVLL_nuenutauuu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L}) (\\bar u_L \\gamma_\\mu u_L)"
-      },
       "CVLL_numunumubb": {
         "real": true,
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\mu L})(\\bar b_L \\gamma_\\mu b_L)"
@@ -5001,30 +5079,6 @@
       "CVLL_numunumuuu": {
         "real": true,
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\mu L}) (\\bar u_L \\gamma_\\mu u_L)"
-      },
-      "CVLL_numunutaubb": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar b_L \\gamma_\\mu b_L)"
-      },
-      "CVLL_numunutaucc": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L}) (\\bar c_L \\gamma_\\mu c_L)"
-      },
-      "CVLL_numunutaudd": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar d_L \\gamma_\\mu d_L)"
-      },
-      "CVLL_numunutauee": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_L \\gamma_\\mu e_L)"
-      },
-      "CVLL_numunutaumumu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_L \\gamma_\\mu \\mu_L)"
-      },
-      "CVLL_numunutauss": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar s_L \\gamma_\\mu s_L)"
-      },
-      "CVLL_numunutautautau": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_L \\gamma_\\mu \\tau_L)"
-      },
-      "CVLL_numunutauuu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L}) (\\bar u_L \\gamma_\\mu u_L)"
       },
       "CVLL_nutaunutaubb": {
         "real": true,
@@ -5090,54 +5144,6 @@
         "real": true,
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar u_R \\gamma_\\mu u_R)"
       },
-      "CVLR_nuenumubb": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar b_R \\gamma_\\mu b_R)"
-      },
-      "CVLR_nuenumucc": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar c_R \\gamma_\\mu c_R)"
-      },
-      "CVLR_nuenumudd": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar d_R \\gamma_\\mu d_R)"
-      },
-      "CVLR_nuenumuee": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_R \\gamma_\\mu e_R)"
-      },
-      "CVLR_nuenumumumu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\mu_R \\gamma_\\mu \\mu_R)"
-      },
-      "CVLR_nuenumuss": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar s_R \\gamma_\\mu s_R)"
-      },
-      "CVLR_nuenumutautau": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\tau_R \\gamma_\\mu \\tau_R)"
-      },
-      "CVLR_nuenumuuu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar u_R \\gamma_\\mu u_R)"
-      },
-      "CVLR_nuenutaubb": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar b_R \\gamma_\\mu b_R)"
-      },
-      "CVLR_nuenutaucc": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar c_R \\gamma_\\mu c_R)"
-      },
-      "CVLR_nuenutaudd": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar d_R \\gamma_\\mu d_R)"
-      },
-      "CVLR_nuenutauee": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_R \\gamma_\\mu e_R)"
-      },
-      "CVLR_nuenutaumumu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_R \\gamma_\\mu \\mu_R)"
-      },
-      "CVLR_nuenutauss": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar s_R \\gamma_\\mu s_R)"
-      },
-      "CVLR_nuenutautautau": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_R \\gamma_\\mu \\tau_R)"
-      },
-      "CVLR_nuenutauuu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar u_R \\gamma_\\mu u_R)"
-      },
       "CVLR_numunumubb": {
         "real": true,
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\mu L})(\\bar b_R \\gamma_\\mu b_R)"
@@ -5170,30 +5176,6 @@
         "real": true,
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\mu L})(\\bar u_R \\gamma_\\mu u_R)"
       },
-      "CVLR_numunutaubb": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar b_R \\gamma_\\mu b_R)"
-      },
-      "CVLR_numunutaucc": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar c_R \\gamma_\\mu c_R)"
-      },
-      "CVLR_numunutaudd": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar d_R \\gamma_\\mu d_R)"
-      },
-      "CVLR_numunutauee": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_R \\gamma_\\mu e_R)"
-      },
-      "CVLR_numunutaumumu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_R \\gamma_\\mu \\mu_R)"
-      },
-      "CVLR_numunutauss": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar s_R \\gamma_\\mu s_R)"
-      },
-      "CVLR_numunutautautau": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_R \\gamma_\\mu \\tau_R)"
-      },
-      "CVLR_numunutauuu": {
-        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar u_R \\gamma_\\mu u_R)"
-      },
       "CVLR_nutaunutaubb": {
         "real": true,
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\tau L} \\gamma^\\mu \\nu_{\\tau L})(\\bar b_R \\gamma_\\mu b_R)"
@@ -5225,6 +5207,156 @@
       "CVLR_nutaunutauuu": {
         "real": true,
         "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\tau L} \\gamma^\\mu \\nu_{\\tau L})(\\bar u_R \\gamma_\\mu u_R)"
+      }
+    },
+    "ffnumunue": {
+      "CVLL_nuenumubb": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar b_L \\gamma_\\mu b_L)"
+      },
+      "CVLL_nuenumucc": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L}) (\\bar c_L \\gamma_\\mu c_L)"
+      },
+      "CVLL_nuenumudd": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar d_L \\gamma_\\mu d_L)"
+      },
+      "CVLL_nuenumuee": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_L \\gamma_\\mu e_L)"
+      },
+      "CVLL_nuenumumumu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\mu_L \\gamma_\\mu \\mu_L)"
+      },
+      "CVLL_nuenumuss": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar s_L \\gamma_\\mu s_L)"
+      },
+      "CVLL_nuenumutautau": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\tau_L \\gamma_\\mu \\tau_L)"
+      },
+      "CVLL_nuenumuuu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L}) (\\bar u_L \\gamma_\\mu u_L)"
+      },
+      "CVLR_nuenumubb": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar b_R \\gamma_\\mu b_R)"
+      },
+      "CVLR_nuenumucc": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar c_R \\gamma_\\mu c_R)"
+      },
+      "CVLR_nuenumudd": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar d_R \\gamma_\\mu d_R)"
+      },
+      "CVLR_nuenumuee": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_R \\gamma_\\mu e_R)"
+      },
+      "CVLR_nuenumumumu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\mu_R \\gamma_\\mu \\mu_R)"
+      },
+      "CVLR_nuenumuss": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar s_R \\gamma_\\mu s_R)"
+      },
+      "CVLR_nuenumutautau": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\tau_R \\gamma_\\mu \\tau_R)"
+      },
+      "CVLR_nuenumuuu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar u_R \\gamma_\\mu u_R)"
+      }
+    },
+    "ffnutaunue": {
+      "CVLL_nuenutaubb": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar b_L \\gamma_\\mu b_L)"
+      },
+      "CVLL_nuenutaucc": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L}) (\\bar c_L \\gamma_\\mu c_L)"
+      },
+      "CVLL_nuenutaudd": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar d_L \\gamma_\\mu d_L)"
+      },
+      "CVLL_nuenutauee": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_L \\gamma_\\mu e_L)"
+      },
+      "CVLL_nuenutaumumu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_L \\gamma_\\mu \\mu_L)"
+      },
+      "CVLL_nuenutauss": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar s_L \\gamma_\\mu s_L)"
+      },
+      "CVLL_nuenutautautau": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_L \\gamma_\\mu \\tau_L)"
+      },
+      "CVLL_nuenutauuu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L}) (\\bar u_L \\gamma_\\mu u_L)"
+      },
+      "CVLR_nuenutaubb": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar b_R \\gamma_\\mu b_R)"
+      },
+      "CVLR_nuenutaucc": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar c_R \\gamma_\\mu c_R)"
+      },
+      "CVLR_nuenutaudd": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar d_R \\gamma_\\mu d_R)"
+      },
+      "CVLR_nuenutauee": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_R \\gamma_\\mu e_R)"
+      },
+      "CVLR_nuenutaumumu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_R \\gamma_\\mu \\mu_R)"
+      },
+      "CVLR_nuenutauss": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar s_R \\gamma_\\mu s_R)"
+      },
+      "CVLR_nuenutautautau": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_R \\gamma_\\mu \\tau_R)"
+      },
+      "CVLR_nuenutauuu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar u_R \\gamma_\\mu u_R)"
+      }
+    },
+    "ffnumunutau": {
+      "CVLL_numunutaubb": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar b_L \\gamma_\\mu b_L)"
+      },
+      "CVLL_numunutaucc": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L}) (\\bar c_L \\gamma_\\mu c_L)"
+      },
+      "CVLL_numunutaudd": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar d_L \\gamma_\\mu d_L)"
+      },
+      "CVLL_numunutauee": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_L \\gamma_\\mu e_L)"
+      },
+      "CVLL_numunutaumumu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_L \\gamma_\\mu \\mu_L)"
+      },
+      "CVLL_numunutauss": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar s_L \\gamma_\\mu s_L)"
+      },
+      "CVLL_numunutautautau": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_L \\gamma_\\mu \\tau_L)"
+      },
+      "CVLL_numunutauuu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L}) (\\bar u_L \\gamma_\\mu u_L)"
+      },
+      "CVLR_numunutaubb": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar b_R \\gamma_\\mu b_R)"
+      },
+      "CVLR_numunutaucc": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar c_R \\gamma_\\mu c_R)"
+      },
+      "CVLR_numunutaudd": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar d_R \\gamma_\\mu d_R)"
+      },
+      "CVLR_numunutauee": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_R \\gamma_\\mu e_R)"
+      },
+      "CVLR_numunutaumumu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\mu_R \\gamma_\\mu \\mu_R)"
+      },
+      "CVLR_numunutauss": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar s_R \\gamma_\\mu s_R)"
+      },
+      "CVLR_numunutautautau": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\tau_R \\gamma_\\mu \\tau_R)"
+      },
+      "CVLR_numunutauuu": {
+        "tex": "\\frac{4G_F}{\\sqrt{2}} (\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar u_R \\gamma_\\mu u_R)"
       }
     },
     "muemutau": {

@@ -1,8 +1,8 @@
 eft: WET
 metadata:
-  description: >
-    Weak effective theory below the electroweak scale with five dynamical
-    quark flavours.
+  description: 'Weak effective theory below the electroweak scale with five dynamical quark flavours.
+
+    '
 sectors:
   sbsb:
   dbdb:
@@ -17,28 +17,6 @@ sectors:
   sdcu:
   sbsd:
   dbds:
-  ubenu:
-  cbenu:
-  usenu:
-  csenu:
-  udenu:
-  cdenu:
-  ubmunu:
-  cbmunu:
-  usmunu:
-  csmunu:
-  udmunu:
-  cdmunu:
-  ubtaunu:
-  cbtaunu:
-  ustaunu:
-  cstaunu:
-  udtaunu:
-  cdtaunu:
-  sbnunu:
-  dbnunu:
-  sdnunu:
-  cununu:
   sb:
   db:
   sd:
@@ -77,23 +55,147 @@ sectors:
   etauemu:
   tauetaumu:
   nunununu:
-  nunumue:
-  nunumutau:
-  nunutaue:
+  numunuenunu:
+  nutaunuenunu:
+  numunutaununu:
+  numunuenumunutau:
+  nutaunuenutaunumu:
+  nuenutaunuenumu:
+  numunuenumunue:
+  nutaunuenutaunue:
+  nutaunumunutaunumu:
+  muenunu:
+  muenunuenue:
+  muenutaunue:
+  muenumunutau:
+  muenuenumu:
+  muenuenutau:
+  muenutaunumu:
+  mutaununu:
+  mutaunumunue:
+  mutaunutaunue:
+  mutaunumunutau:
+  mutaunuenumu:
+  mutaunuenutau:
+  mutaunutaunumu:
+  tauenunu:
+  tauenuenumu:
+  tauenuenutau:
+  tauenutaunumu:
+  tauenumunue:
+  tauenutaunue:
+  tauenumunutau:
   dF=0:
+  ubenue:
+  ubenumu:
+  ubenutau:
+  ubmunue:
+  ubmunumu:
+  ubmunutau:
+  ubtaunue:
+  ubtaunumu:
+  ubtaunutau:
+  cbenue:
+  cbenumu:
+  cbenutau:
+  cbmunue:
+  cbmunumu:
+  cbmunutau:
+  cbtaunue:
+  cbtaunumu:
+  cbtaunutau:
+  usenue:
+  usenumu:
+  usenutau:
+  usmunue:
+  usmunumu:
+  usmunutau:
+  ustaunue:
+  ustaunumu:
+  ustaunutau:
+  csenue:
+  csenumu:
+  csenutau:
+  csmunue:
+  csmunumu:
+  csmunutau:
+  cstaunue:
+  cstaunumu:
+  cstaunutau:
+  udenue:
+  udenumu:
+  udenutau:
+  udmunue:
+  udmunumu:
+  udmunutau:
+  udtaunue:
+  udtaunumu:
+  udtaunutau:
+  cdenue:
+  cdenumu:
+  cdenutau:
+  cdmunue:
+  cdmunumu:
+  cdmunutau:
+  cdtaunue:
+  cdtaunumu:
+  cdtaunutau:
+  sbnunu:
+  sbnumunue:
+  sbnutaunue:
+  sbnumunutau:
+  dbnunu:
+  dbnumunue:
+  dbnutaunue:
+  dbnumunutau:
+  sdnunu:
+  sdnumunue:
+  sdnutaunue:
+  sdnumunutau:
+  cununu:
+  cunumunue:
+  cunutaunue:
+  cunumunutau:
   ffnunu:
-  uddnu:
-  udsnu:
-  udbnu:
-  ussnu:
-  usbnu:
-  ubbnu:
-  cddnu:
-  cdsnu:
-  cdbnu:
-  cssnu:
-  csbnu:
-  cbbnu:
+  ffnumunue:
+  ffnutaunue:
+  ffnumunutau:
+  uddnue:
+  uddnumu:
+  uddnutau:
+  udsnue:
+  udsnumu:
+  udsnutau:
+  udbnue:
+  udbnumu:
+  udbnutau:
+  ussnue:
+  ussnumu:
+  ussnutau:
+  usbnue:
+  usbnumu:
+  usbnutau:
+  ubbnue:
+  ubbnumu:
+  ubbnutau:
+  cddnue:
+  cddnumu:
+  cddnutau:
+  cdsnue:
+  cdsnumu:
+  cdsnutau:
+  cdbnue:
+  cdbnumu:
+  cdbnutau:
+  cssnue:
+  cssnumu:
+  cssnutau:
+  csbnue:
+  csbnumu:
+  csbnutau:
+  cbbnue:
+  cbbnumu:
+  cbbnutau:
   uude:
   uudmu:
   uudtau:
