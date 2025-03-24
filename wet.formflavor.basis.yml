@@ -129,7 +129,7 @@ sectors:
       tex: g_s (\bar d_L \sigma^{\mu\nu} b_R) G_{\mu\nu}
     CGL_db:
       tex: g_s (\bar d_R \sigma^{\mu\nu} b_L) G_{\mu\nu}
-  sdnunu:
+  sdnuinui:
     CVLL_sdnn:
       tex: (\bar d_L \gamma^\mu s_L)(\bar \nu_L \gamma_\mu \nu_L)
     CVRL_sdnn:

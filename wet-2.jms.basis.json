@@ -5,7 +5,7 @@
     "description": "Variant of the basis suggested by Jenkins, Manohar, and Stoffer (arXiv:1709.04486) with only two dynamical quark flavors."
   },
   "sectors": {
-    "nunununu": {
+    "nuinuinujnuj": {
       "VnunuLL_1111": {
         "real": true,
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar \\nu_{eL} \\gamma_\\mu \\nu_{eL})"
@@ -31,7 +31,7 @@
         "tex": "(\\bar \\nu_{\\tau L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\nu_{\\tau L} \\gamma_\\mu \\nu_{\\tau L})"
       }
     },
-    "numunuenunu": {
+    "numunuenuinui": {
       "VnunuLL_1112": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar \\nu_{eL} \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -42,7 +42,7 @@
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\nu_{\\tau L} \\gamma_\\mu \\nu_{\\tau L})"
       }
     },
-    "nutaunuenunu": {
+    "nutaunuenuinui": {
       "VnunuLL_1113": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar \\nu_{eL} \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -53,7 +53,7 @@
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\nu_{\\tau L} \\gamma_\\mu \\nu_{\\tau L})"
       }
     },
-    "numunutaununu": {
+    "numunutaunuinui": {
       "VnunuLL_1123": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar \\nu_{\\mu L} \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -278,7 +278,7 @@
         "tex": "(\\bar u_L T^A d_R) (\\bar d_L T^A u_R)"
       }
     },
-    "ffnunu": {
+    "ffnuinui": {
       "VnueLL_1111": {
         "real": true,
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar e_L \\gamma_\\mu e_L)"

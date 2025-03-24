@@ -561,7 +561,7 @@ sectors:
       tex: (\bar c P_L d)(\bar \tau P_L \nu_3)
     GSRL_1233:
       tex: (\bar c P_R d)(\bar \tau P_L \nu_3)
-  sbnunu:
+  sbnuinui:
     FVLL_2311:
       tex: (\bar b \gamma^\mu P_L s)(\bar \nu_1 \gamma_\mu P_L \nu_1)
     FVLL_2322:
@@ -601,7 +601,7 @@ sectors:
       tex: (\bar b \gamma^\mu P_R s)(\bar \nu_3 \gamma_\mu P_L \nu_2)
     FVRL_3223:
       tex: (\bar s \gamma^\mu P_R b)(\bar \nu_3 \gamma_\mu P_L \nu_2)
-  dbnunu:
+  dbnuinui:
     FVLL_1311:
       tex: (\bar b \gamma^\mu P_L d)(\bar \nu_1 \gamma_\mu P_L \nu_1)
     FVLL_1322:
@@ -641,7 +641,7 @@ sectors:
       tex: (\bar b \gamma^\mu P_R d)(\bar \nu_3 \gamma_\mu P_L \nu_2)
     FVRL_3123:
       tex: (\bar d \gamma^\mu P_R b)(\bar \nu_3 \gamma_\mu P_L \nu_2)
-  sdnunu:
+  sdnuinui:
     FVLL_2111:
       tex: (\bar d \gamma^\mu P_L s)(\bar \nu_1 \gamma_\mu P_L \nu_1)
     FVLL_2122:

@@ -4,10 +4,10 @@
     "description": "Weak effective theory with dynamical up and down quark and electron, valid below the stange quark mass scale.\n"
   },
   "sectors": {
-    "nunununu": null,
-    "numunuenunu": null,
-    "nutaunuenunu": null,
-    "numunutaununu": null,
+    "nuinuinujnuj": null,
+    "numunuenuinui": null,
+    "nutaunuenuinui": null,
+    "numunutaunuinui": null,
     "numunuenumunutau": null,
     "nutaunuenutaunumu": null,
     "nuenutaunuenumu": null,
@@ -15,7 +15,7 @@
     "nutaunuenutaunue": null,
     "nutaunumunutaunumu": null,
     "dF=0": null,
-    "ffnunu": null,
+    "ffnuinui": null,
     "ffnumunue": null,
     "ffnutaunue": null,
     "ffnumunutau": null,

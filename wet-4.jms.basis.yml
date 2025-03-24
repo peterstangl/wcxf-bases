@@ -1208,7 +1208,7 @@ sectors:
       tex: (\bar e_L \tau_R) (\bar \mu_L \tau_R)
     SeeRR_3132:
       tex: (\bar \tau_L e_R) (\bar \tau_L \mu_R)
-  nunununu:
+  nuinuinujnuj:
     VnunuLL_1111:
       real: true
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{eL})(\bar \nu_{eL} \gamma_\mu \nu_{eL})
@@ -1227,21 +1227,21 @@ sectors:
     VnunuLL_3333:
       real: true
       tex: (\bar \nu_{\tau L} \gamma^\mu \nu_{\tau L})(\bar \nu_{\tau L} \gamma_\mu \nu_{\tau L})
-  numunuenunu:
+  numunuenuinui:
     VnunuLL_1112:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{eL})(\bar \nu_{eL} \gamma_\mu \nu_{\mu L})
     VnunuLL_1222:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{\mu L})(\bar \nu_{\mu L} \gamma_\mu \nu_{\mu L})
     VnunuLL_1233:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{\mu L})(\bar \nu_{\tau L} \gamma_\mu \nu_{\tau L})
-  nutaunuenunu:
+  nutaunuenuinui:
     VnunuLL_1113:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{eL})(\bar \nu_{eL} \gamma_\mu \nu_{\tau L})
     VnunuLL_1223:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{\mu L})(\bar \nu_{\mu L} \gamma_\mu \nu_{\tau L})
     VnunuLL_1333:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{\tau L})(\bar \nu_{\tau L} \gamma_\mu \nu_{\tau L})
-  numunutaununu:
+  numunutaunuinui:
     VnunuLL_1123:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{eL})(\bar \nu_{\mu L} \gamma_\mu \nu_{\tau L})
     VnunuLL_2223:
@@ -1266,7 +1266,7 @@ sectors:
   nutaunumunutaunumu:
     VnunuLL_2323:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L})(\bar \nu_{\mu L} \gamma_\mu \nu_{\tau L})
-  muenunu:
+  muenuinui:
     VnueLL_1112:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{eL})(\bar e_L \gamma_\mu \mu_L)
     VnueLL_2212:
@@ -1279,7 +1279,7 @@ sectors:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\mu L})(\bar e_R \gamma_\mu \mu_R)
     VnueLR_3312:
       tex: (\bar \nu_{\tau L} \gamma^\mu \nu_{\tau L})(\bar e_R \gamma_\mu \mu_R)
-  muenunuenue:
+  muenumunue:
     VnueLL_1212:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{\mu L})(\bar e_L \gamma_\mu \mu_L)
     VnueLR_1212:
@@ -1309,7 +1309,7 @@ sectors:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L})(\bar e_L \gamma_\mu \mu_L)
     VnueLR_2312:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L})(\bar e_R \gamma_\mu \mu_R)
-  mutaununu:
+  mutaunuinui:
     VnueLL_1123:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{eL})(\bar \mu_L \gamma_\mu \tau_L)
     VnueLL_2223:
@@ -1352,7 +1352,7 @@ sectors:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L})(\bar \tau_L \gamma_\mu \mu_L)
     VnueLR_2332:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L})(\bar \tau_R \gamma_\mu \mu_R)
-  tauenunu:
+  tauenuinui:
     VnueLL_1113:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{eL})(\bar e_L \gamma_\mu \tau_L)
     VnueLL_2213:
@@ -2403,7 +2403,7 @@ sectors:
       tex: (\bar \nu_{\tau L} \tau_R) (\bar d_L c_R)
     TnueduRR_3312:
       tex: (\bar \nu_{\tau L} \sigma^{\mu \nu} \tau_R) (\bar d_L \sigma_{\mu \nu} c_R)
-  sdnunu:
+  sdnuinui:
     VnudLL_1112:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{eL})(\bar d_L \gamma_\mu s_L)
     VnudLL_2212:
@@ -2443,7 +2443,7 @@ sectors:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L})(\bar d_L \gamma_\mu s_L)
     VnudLR_2312:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L})(\bar d_R \gamma_\mu s_R)
-  cununu:
+  cunuinui:
     VnuuLL_1112:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{eL}) (\bar u_L \gamma_\mu c_L)
     VnuuLL_2212:
@@ -2483,7 +2483,7 @@ sectors:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L}) (\bar u_L \gamma_\mu c_L)
     VnuuLR_2312:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L})(\bar u_R \gamma_\mu c_R)
-  ffnunu:
+  ffnuinui:
     VnueLL_1111:
       real: true
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{eL})(\bar e_L \gamma_\mu e_L)

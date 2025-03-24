@@ -389,7 +389,7 @@ sectors:
       tex: \frac{4G_F}{\sqrt{2}} V_{cb}^* V_{ub} (\bar u_R^\alpha \sigma^{\mu\nu} c_L^\beta)(\bar s_R^\beta \sigma_{\mu\nu} s_L^\alpha)
     CTRRt_cuss:
       tex: \frac{4G_F}{\sqrt{2}} V_{cb}^* V_{ub} (\bar u_L^\alpha \sigma^{\mu\nu} c_R^\beta)(\bar s_L^\beta \sigma_{\mu\nu} s_R^\alpha)
-  sdnunu:
+  sdnuinui:
     CL_sdnuenue:
       tex: \frac{4G_F}{\sqrt{2}} V_{td} V_{ts}^* \frac{e^2}{16\pi^2}(\bar s_L \gamma^\mu d_L)(\bar \nu_e \gamma_\mu(1-\gamma_5) \nu_e)
     CL_sdnumunumu:
@@ -1926,7 +1926,7 @@ sectors:
       tex: (\bar \tau_L \sigma^{\mu \nu} e_R) (\bar d_L \sigma_{\mu \nu} d_R)
     CTRR_etauss:
       tex: (\bar \tau_L \sigma^{\mu \nu} e_R) (\bar s_L \sigma_{\mu \nu} s_R)
-  muenunu:
+  muenuinui:
     CVLL_nuenuemue:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{eL})(\bar e_L \gamma_\mu \mu_L)
     CVLL_numunumumue:
@@ -1944,7 +1944,7 @@ sectors:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{\mu L})(\bar \mu_L \gamma_\mu e_L)
     CVLR_numunueemu:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{\mu L})(\bar \mu_R \gamma_\mu e_R)
-  muenunuenue:
+  muenumunue:
     CVLL_numunuemue:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{\mu L})(\bar e_L \gamma_\mu \mu_L)
     CVLR_numunuemue:
@@ -1969,7 +1969,7 @@ sectors:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L})(\bar e_L \gamma_\mu \mu_L)
     CVLR_nutaunumumue:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L})(\bar e_R \gamma_\mu \mu_R)
-  mutaununu:
+  mutaunuinui:
     CVLL_nuenuetaumu:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{eL})(\bar \mu_L \gamma_\mu \tau_L)
     CVLL_numunumutaumu:
@@ -2012,7 +2012,7 @@ sectors:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L})(\bar \mu_L \gamma_\mu \tau_L)
     CVLR_nutaunumutaumu:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L})(\bar \mu_R \gamma_\mu \tau_R)
-  tauenunu:
+  tauenuinui:
     CVLL_nuenuetaue:
       tex: (\bar \nu_{eL} \gamma^\mu \nu_{eL})(\bar e_L \gamma_\mu \tau_L)
     CVLL_numunumutaue:
@@ -2055,7 +2055,7 @@ sectors:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L})(\bar e_L \gamma_\mu \tau_L)
     CVLR_nutaunumutaue:
       tex: (\bar \nu_{\mu L} \gamma^\mu \nu_{\tau L})(\bar e_R \gamma_\mu \tau_R)
-  ffnunu:
+  ffnuinui:
     CVLL_nuenuecc:
       real: true
       tex: \frac{4G_F}{\sqrt{2}} (\bar \nu_{eL} \gamma^\mu \nu_{eL}) (\bar c_L \gamma_\mu c_L)

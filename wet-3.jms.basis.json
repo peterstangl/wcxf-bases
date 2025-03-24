@@ -440,7 +440,7 @@
         "tex": "(\\bar \\mu_L e_R) (\\bar \\mu_L e_R)"
       }
     },
-    "nunununu": {
+    "nuinuinujnuj": {
       "VnunuLL_1111": {
         "real": true,
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar \\nu_{eL} \\gamma_\\mu \\nu_{eL})"
@@ -466,7 +466,7 @@
         "tex": "(\\bar \\nu_{\\tau L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\nu_{\\tau L} \\gamma_\\mu \\nu_{\\tau L})"
       }
     },
-    "numunuenunu": {
+    "numunuenuinui": {
       "VnunuLL_1112": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar \\nu_{eL} \\gamma_\\mu \\nu_{\\mu L})"
       },
@@ -477,7 +477,7 @@
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar \\nu_{\\tau L} \\gamma_\\mu \\nu_{\\tau L})"
       }
     },
-    "nutaunuenunu": {
+    "nutaunuenuinui": {
       "VnunuLL_1113": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar \\nu_{eL} \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -488,7 +488,7 @@
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\nu_{\\tau L} \\gamma_\\mu \\nu_{\\tau L})"
       }
     },
-    "numunutaununu": {
+    "numunutaunuinui": {
       "VnunuLL_1123": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar \\nu_{\\mu L} \\gamma_\\mu \\nu_{\\tau L})"
       },
@@ -529,7 +529,7 @@
         "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar \\nu_{\\mu L} \\gamma_\\mu \\nu_{\\tau L})"
       }
     },
-    "muenunu": {
+    "muenuinui": {
       "VnueLL_1112": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar e_L \\gamma_\\mu \\mu_L)"
       },
@@ -549,7 +549,7 @@
         "tex": "(\\bar \\nu_{\\tau L} \\gamma^\\mu \\nu_{\\tau L})(\\bar e_R \\gamma_\\mu \\mu_R)"
       }
     },
-    "muenunuenue": {
+    "muenumunue": {
       "VnueLL_1212": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{\\mu L})(\\bar e_L \\gamma_\\mu \\mu_L)"
       },
@@ -1256,7 +1256,7 @@
         "tex": "(\\bar \\nu_{\\tau L} \\sigma^{\\mu \\nu} \\mu_R) (\\bar d_L \\sigma_{\\mu \\nu} u_R)"
       }
     },
-    "sdnunu": {
+    "sdnuinui": {
       "VnudLL_1112": {
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar d_L \\gamma_\\mu s_L)"
       },
@@ -1318,7 +1318,7 @@
         "tex": "(\\bar \\nu_{\\mu L} \\gamma^\\mu \\nu_{\\tau L})(\\bar d_R \\gamma_\\mu s_R)"
       }
     },
-    "ffnunu": {
+    "ffnuinui": {
       "VnueLL_1111": {
         "real": true,
         "tex": "(\\bar \\nu_{eL} \\gamma^\\mu \\nu_{eL})(\\bar e_L \\gamma_\\mu e_L)"
